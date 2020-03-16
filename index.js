@@ -1,6 +1,6 @@
-var musicians = ["paino","guitar","drums","violin"];// add solution here
+var musicians = ["paino","guitar","drums","violin"];
 Function (theBeatlesPlay){
-  for (i = 0; i < 1; i++) {
+  for (i = 0; musicians < 4; i++) {
   text += "John Lennon plays guitar" + i + "";
 }
 }
